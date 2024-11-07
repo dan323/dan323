@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dan323&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 I am currently working on improveming my knowledge on how many widely used utilities work using [codecrafters](https://app.codecrafters.io)
 <!--
