@@ -36,6 +36,12 @@ Spanish (native) · English (C1) · French (B2)
 
 ---
 
+### 🏆 Achievements
+
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.es/citations?user=A3E4reUAAAAJ&hl=es) Published research in non-associative algebra
+
+---
+
 ### 📚 Currently Learning
 
 Exploring AI integration and agent architecture — focusing on the Claude API, agentic workflows, and the emerging specs around AI skills and multi-agent systems.
@@ -45,7 +51,6 @@ Exploring AI integration and agent architecture — focusing on the Claude API, 
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danconsa/)
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.es/citations?user=A3E4reUAAAAJ&hl=es)
 
 ---
 
