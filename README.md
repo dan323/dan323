@@ -51,7 +51,3 @@ Exploring AI integration and agent architecture — focusing on the Claude API, 
 ### 📫 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danconsa/)
-
----
-
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dan323&show_icons=true&theme=onedark&hide_border=true&hide=stars,contribs)
